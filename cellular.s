@@ -1,5 +1,5 @@
 ########################################################################
-# COMP1521 20T2 --- assignment 1: a cellular automaton renderer
+a cellular automaton renderer
 #
 # Written by <<Shree Nath>>, July 2020.
 
