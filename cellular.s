@@ -1,5 +1,4 @@
 ########################################################################
-a cellular automaton renderer
 #
 # Written by <<Shree Nath>>, July 2020.
 
