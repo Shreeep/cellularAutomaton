@@ -1,6 +1,6 @@
 # Cellular Automaton 
 
-Similar to game of life, this program is a cellular automaton generator written in assembly.
+This program is a cellular automaton (akin in to game of life) written in assembly.
 
 Author: Shree Nath
 
