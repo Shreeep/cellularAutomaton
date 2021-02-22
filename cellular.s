@@ -29,7 +29,7 @@ MAX_CELLS_BYTES	= (MAX_GENERATIONS + 1) * MAX_WORLD_SIZE
 cells:	.space MAX_CELLS_BYTES
 
 
-# Some strings you'll need to use:
+# user instructions
 
 prompt_world_size:	.asciiz "Enter world size: "
 error_world_size:	.asciiz "Invalid world size\n"
